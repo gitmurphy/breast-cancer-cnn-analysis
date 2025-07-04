@@ -3,7 +3,7 @@ _An analysis of __pre-trained CNN architectures__ for detecting malignant vs. be
 
 ![Project Grade](https://img.shields.io/badge/Project%20Grade%3A%20First%20Class-81%25-brightgreen)
 
-[⬇️ Download full thesis (PDF, 1.43 MB)](docs/breast_cancer_cnn_thesis.pdf)
+[⬇️ Download full thesis (PDF, 1.43 MB)](docs/thesis.pdf)
 
 ---
 
